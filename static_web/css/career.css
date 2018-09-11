@@ -1,0 +1,35 @@
+input,select{outline:none}
+		div.top>div.bg_about{background: url(../images/bg-joinus.jpg) no-repeat;position: relative;}
+		div.top>div.bg_about>div.title_history{width: 450px;height: 170px; margin-top: 80px; position: absolute;right: 250px;}
+		div.top>div.bg_about>div.title_history>p{font-size: 18px;margin-top: 10px;}
+		div.top>div.bg_about>div.title_history>div.tel{width: 200px;height: 50px;background: rgba(225,255,225,0.5);margin-top: 20px;border-radius: 10px; line-height: 50px;text-align: center;font-size: 18px;color: #411A09}
+		div.main{width: 100%;height:750px;background: url(../images/bg-pattern.jpg);}
+		div.main>div.text-center{width: 800px;height: 150px;margin: 0px auto;padding-top: 100px;text-align: center;}
+		div.main>div.text-center>p{margin-top: 20px;font-size: 18px;color: #411A09}
+		div.main>form#details{width: 1200px;height: 500px;margin: 0px auto;position: relative;}
+		div.main>#details{width: 1200px;height: 720px;margin: 0px auto;margin-top: 80px;position: relative;}
+		div.main>#details>ul{width: 1200px;height: 550px;position: relative;}
+
+		div.main>#details>ul>p{position: absolute;right:0px; font-size: 20px;color: #E6B80A}
+		div.main>#details>ul>li.name{width: 575px;height: 50px;background: white;position:absolute;top: 50px;}
+		div.main>#details>ul>li>span{margin-right: 10px;color: #E6B80A;}
+		div.main>#details>ul>li.name>input{width: 75%;height: 50px; border: none;font-size: 18px;}
+		div.main>#details>ul>li.name>#title{width: 20%;height: 27px; border: none;padding-left: 10px; border-left: 1px solid #FBD600;font-size: 18px;-webkit-appearance: none;  background: url(../images/icon-darrow.svg) no-repeat 70px;}
+		div.main>#details>ul>li.number{width: 575px;height: 50px;background: white;position:absolute;top: 50px;right: 0px}
+		div.main>#details>ul>li.number>input{width:90%;height: 50px; border: none;font-size: 18px;}
+		div.main>#details>ul>li.living{width: 575px;height: 50px;background: white;position:absolute;top: 120px;}
+		div.main>#details>ul>li.living>#living_area{width: 93%;height: 50px; border: none;padding-left: 10px;font-size: 18px;-webkit-appearance: none;  background: url(../images/icon-darrow.svg) no-repeat 505px;}
+		div.main>#details>ul>li.choose{width: 575px;height: 50px;background: white;position:absolute;top: 120px;right: 0px;line-height: 50px}
+		div.main>#details>ul>li.choose>p{display: inline-block;font-size: 18px;margin-right: 50px;}
+		div.main>#details>ul>li.choose>input{display: inline-block; width: 50px;height: 24px;font-size: 18px;vertical-align:text-bottom;margin-bottom:-1px;}
+		div.main>#details>ul>li.agree{width:952px;height: 120px;background: white;position:absolute;top: 200px;line-height: 50px}
+		div.main>#details>ul>li.agree>p{display: inline-block;font-size: 18px;line-height: 1.5;margin-bottom: 20px;}
+		div.main>#details>ul>li.agree>p>a{color: #FCD800;border-bottom: 1px solid #FCD800;}
+		div.main>#details>ul>li.agree>p>span{color: #FCD800;}
+		div.main>#details>ul>li.agree>input{width: 50px;height: 24px;vertical-align:text-bottom;margin-bottom:-1px;}
+		div.main>#details>ul>li.check{width: 575px;height: 50px;background: white;position:absolute;top: 350px;line-height: 50px;line-height: 50px}
+		div.main>#details>ul>li.check>input{width: 90%;height: 48px;font-size: 18px;border: none;}
+		div.main>#details>div.download{width: 600px;height: 50px;line-height: 50px;position: absolute;top:350px;right: 0px;}
+		div.main>#details>div.download>img{vertical-align: middle;padding-right: 10px}
+		div.main>#details>div.download>a>img{vertical-align: middle;padding-right: 10px}
+		div.main>#details>div.download>a>div{display:inline-block;width: 300px;height: 50px;border-radius: 5px;background:#F9D54A; margin-left: 50px;text-align: center;font-size: 18px;color: black}

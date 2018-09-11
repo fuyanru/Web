@@ -1,0 +1,15 @@
+div.flow{width: 100%;height:673px;background: rgba(0,0,0,0.7);position: absolute;top:0px;z-index: 100;display: none}
+		div.flow>div.flow-row{width: 480px;height: 620px;background: white;margin:30px auto;display: none}
+		div.flow>div.flow-row>div.top{width: 100%;height: 350px;position: relative; /*background: url(../images/news1.jpg)center no-repeat;*/}
+		div.flow>div.flow-row>div.top>img{width: 100%}
+		div.flow>div.flow-row>div.top>div.colse{width: 50px;height: 50px;  background: url(../images/fancy_closer.png) no-repeat 0px/50px 50px;float: right;position: absolute;right: 20px;top: 20px}
+		div.flow>div.flow-row>div.top>div.colse>a{display: block;width: 50px;height: 50px}
+		div.flow>div.flow-row>div.bottom{width: 100%;height: 250px;position: relative;overflow: hidden;}
+		div.flow>div.flow-row>div.bottom>div.left{width: 400px;height: 250px;position: absolute; float: left;margin-left: 40px /*overflow: auto;*//*overflow-y:hidden*/}
+		div.flow>div.flow-row>div.bottom>div.left>p{color: #7F7F7E;font-size:16px;text-align:justify; }
+		div.flow>div.flow-row>div.bottom>div.left>h2{color: #2E1206;margin:20px 0px;}
+
+		div.flow>div.flow-row>div.bottom>div.right{width: 30px;height: 250px;/*background: yellow;*/float: right;}
+		div.flow>div.flow-row>div.bottom>div.right>div.box{width: 10px;height: 210px;/*background: pink;*/margin-top: 20px; position: relative;}
+		div.flow>div.flow-row>div.bottom>div.right>div.box>div.move1{width: 10px;height: 150px;background: orange;border-radius: 10px;position: absolute;}
+		div.flow>div.flow-row>div.bottom>div.right>div.box>div.move1>a{display: block; width: 10px;height: 150px;}

@@ -1,0 +1,5 @@
+div.top>div.warp{width: 110px;height: 110px;/*background: pink;*/position: fixed;top:250px;right: 20px;z-index: 100}
+div.top>div.warp>a{width: 90px;height: 90px;margin: 10px;background: #FFCB02;display: block;border-radius:45px;line-height: 80px;}
+div.top>div.warp>a>div{width: 70px;height: 70px;background: white; display: block;border-radius:35px;position: relative;margin: 0px auto;position: relative;top:10px;}
+div.top>div.warp>a>div>img{width: 35px;height: 35px;position: absolute;top:6px;left:18px;}
+div.top>div.warp>a>div>p{font-size: 10px;position: absolute;top:10px;left: 13px;color: black;}

@@ -1,0 +1,15 @@
+		html{position: relative;}
+		div.top>div.bg_about{background: url('../images/bg-news.jpg') no-repeat -270px;}
+		div.main{width: 100%;height:2580px;background: #FEF9F3}
+		div.main>div.row{width: 1200px;height: 500px;margin: 0px auto;overflow: hidden;}
+		div.main>div.row>div.left{width: 600px;height: 425px;float: left;margin-top: 80px;border-radius:15px;overflow: hidden;}
+		div.main>div.row>div.left>img{width: 600px;height: 425px;}
+		div.main>div.row>div.right{width: 600px;height: 370px;background:white;float: right;margin-top:105px;text-align: center;}
+		div.main>div.row>div.right>p{margin-top: 85px;margin-bottom: 25px; font-size: 25px}
+		div.main>div.row>div.right>div{width: 80px;height:3px; background: orange;margin: 0px auto;}
+		div.main>div.row>div.right>h3{width: 500px; font-weight: 400;text-align:justify;margin: 30px auto}
+		div.main>div.row>div.right>a{display: block;width: 70px;height: 50px;line-height: 50px; float: right;margin-right: 50px;color: orange;font-size: 18px;}
+		div.main>div.row>div.right>a>img{margin-left: 10px;margin-bottom: -2px}
+		
+
+

@@ -1,0 +1,12 @@
+		div.main>div.subnav>ul>li:nth-child(2)>a{color: white;}
+		div.main>div.hope{width: 100%;height: 533px;background: #513529;}
+		div.main>div.hope>div.left{width: 440px;height: 300px;text-align:justify;margin-left: 100px;padding-top:180px;float: left; }
+		div.main>div.hope>div.left>p{color: white;font-weight: 800;letter-spacing: 2px}
+		div.main>div.hope>div.right{float: right;width: 683px; height: 533px;margin-right: 100px}
+		div.main>div.hope>div.right>img{width: 683px; height: 533px;}
+		div.main>div.hope_next{width: 100%;height: 433px;background: #FEF2CC;}
+		div.main>div.hope_next>div.left{margin-left: 100px; float: left;}
+		div.main>div.hope_next>div.right{width: 450px;height: 300px;float: right;margin-right: 100px;padding-top: 100px;line-height: 1.5}
+		div.main>div.hope_next>div.right>p{width: 450px;letter-spacing: 1px;text-align:justify;font-size: 17px;}
+		div.main>div.hope:last-child{background: #FAF5EF;}
+		div.main>div.hope:last-child>div.left>p{color: #523528;letter-spacing: 1px;line-height: 1.5}

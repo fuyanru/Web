@@ -1,0 +1,22 @@
+		*{margin: 0px;padding: 0px;}
+		ul{list-style: none}
+		a{text-decoration: none;}
+		div.top{width: 100%;height: 470px;}
+		div.top>div.bg_about{width: 100%;height: 350px;background: url(../images/bg-about.jpg) no-repeat;overflow: hidden; position: relative;}
+		div.top>div.bg_about>div.title_history{width: 320px;height: 70px;margin: 130px auto}
+		div.top>div.banner>div.nav{width: 100%;height: 120px;background: #523528;z-index: 100}
+		div.top>div.banner>div.nav>div.logo{width: 150px; height: 120px;margin-left: 40px; /*background: pink;*/ display: block; float: left;}
+		div.top>div.banner>div.nav>div.logo>a{line-height: 150px}
+		div.top>div.banner>div.nav>div.nav_menus{width: 780px;height: 120px;/*background: pink;*/float: right;margin-right: 120px;}
+		div.top>div.banner>div.nav>div.nav_menus>ul{width: 780px;height: 120px;position: relative;}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li{width: 130px;height: 120px; float: left;/*padding: 0px 15px;*/ text-align: center;line-height: 120px;}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li>a>img{margin-left: 5px;width: 15px;}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li>a{display: block;width: 130px; color: white;font-size: 18px;font-weight: 800}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li>div.submenu{width: 130px;height: 213px;background: #eac958;display: none;position: absolute;top: 120px;left: 0px;font-weight: 800}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li>div.submenu>ul>li{width: 130px;height: 70px;line-height: 70px;border-bottom: 1px solid white;}
+		div.top>div.banner>div.nav>div.nav_menus>ul>li>div.submenu>ul>li>a{display: block; width: 130px;height: 120px; color: #523528;}
+		div.main{width: 100%;height: 1155px;background: #FAF3ED;background:#FEF9F3;}
+		div.main>div.subnav{width: 100%;height: 74px;background: #FFD42F;}
+		div.main>div.subnav>ul{width: 450px;height: 74px;text-align: center;line-height: 74px;margin: 0px auto}
+		div.main>div.subnav>ul>li{width: 150px;height: 74px; float: left;}
+		div.main>div.subnav>ul>li>a{color: #3E1909;font-size: 18px;font-weight: 800}

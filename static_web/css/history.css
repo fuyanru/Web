@@ -1,0 +1,13 @@
+		div.main{width: 100%;height:3200px;background: url(../images/bg-pattern.jpg);}
+		div.main>div.subnav>ul>li:first-child>a{color: #3E1909;color: white}
+		div.main>p{width:640px;margin:0px auto;margin-top: 100px; color: #411A09;font-size: 17px;line-height:1.5;text-align:justify;font-family: 微软雅黑;}
+		div.main>div.year-60{width: 100%;height:515px;}
+		div.main>div.year-60>div.year-60img{width: 655px;height: 515px;margin-left: 120px;float: left;}
+		div.main>div.year-60>div.year-60img>img{width: 655px;height: 515px;}
+		div.main>div.year-60>div.year-60word{width: 350px;height: 315px; float: right;margin-right: 150px;margin-top:200px;color: #411A09;line-height:1.5;text-align:justify;font-family: 微软雅黑; }
+		div.main>div.year-80{width: 100%;height:515px;}
+		div.main>div.year-80>div.year-80img{width: 655px;height: 515px;float: right;margin-right: 100px}
+		div.main>div.year-80>div.year-80img>img{width: 655px;height: 515px;}
+		div.main>div.year-80>div.year-80word{width: 350px;height: 315px; float: left;margin-top:150px;margin-left:120px; color: #411A09;line-height:1.5;text-align:justify;font-family: 微软雅黑; }
+		div.cert{width: 100%;height: 300px;padding-top: 50px}
+		div.cert>img{margin: 0px auto;display: block;padding-top: 50px;}

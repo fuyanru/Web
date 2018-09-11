@@ -1,0 +1,17 @@
+		div.main>div.subnav>ul>li:last-child>a{color: white;}
+		div.main>div.foots{width: 100%;height: 550px; background: url(../images/bg-footprint1.png) no-repeat;background-size: cover;}
+		div.main>div.foots>div.foot-word{width: 620px;height:400px;float: right; margin-top: 70px;margin-right: 90px;}
+		div.main>div.foots>div.foot-word>p{font-size: 17px;letter-spacing: 1px;text-align:justify;line-height: 1.5}
+		div.main>div.foots>div.foot-word>div.foot-nav{width: 620px;height: 42px;margin-top:50px;border-bottom: 1px solid #ECE5DE;}
+		div.main>div.foots>div.foot-word>div.foot-nav>ul{float: right}
+		div.main>div.foots>div.foot-word>div.foot-nav>ul>li{height: 40px;margin-right: 35px; float: left;line-height: 40px;text-align: center;}
+		div.main>div.foots>div.foot-word>div.foot-nav>ul>li>a{color:#AFA39D;font-weight: 900}
+		div.main>div.foots>div.foot-word>div.foot-nav>ul>li.word-style{border-bottom: 3px solid #3E1909}
+		div.main>div.foots>div.foot-word>div.foot-nav>ul>li.word-style>a{color: #3E1909;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word{width: 620px;height: 200px;margin-top: 25px;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word>div.box{position: relative;display: none;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word>div.box:first-child{display: block;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word>div.box>p{width: 550px;height: 150px; font-size: 18px;float: right;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word>div.box>a>img{width: 200px;margin-left: 20px;}
+		div.main>div.foots>div.foot-word>div.foot-nav-word>div.box>a{position: absolute;right: 0px;top: 130px;}
+		div.main>div.address{width: 100%;height: 760px;background: url(../images/bg-map.jpg) no-repeat 0px 0px/1349px;}

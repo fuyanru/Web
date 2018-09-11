@@ -1,0 +1,80 @@
+div.top>div.bg_about{background: url(../images/bg-franchising.jpg) no-repeat;position: relative;}
+		div.top>div.bg_about>div.title_history{width: 450px;height: 170px; margin-top: 100px; position: absolute;right: 180px;}
+		div.top>div.bg_about>div.title_history>p{font-size: 18px;margin-top: 10px;}
+		div.main{width: 100%;height:1850px;background: url(../images/bg-pattern.jpg);}
+		div.main>div.brand{width: 1100px;height: 650px;/*background: pink;*/margin: 0px auto;}
+		div.main>div.brand>div.brand_img{width: 1100px;height: 600px;/*background: #ccc;*/position: relative;}
+		div.main>div.brand>div.brand_img>ul{width: 64%;height: 300px; margin:0px auto;padding-top: 150px;/*background: pink;*/position: relative;}
+		div.main>div.brand>div.brand_img>ul>li{float: left;width: 200px;height: 200px;border-radius: 100px;text-align: center;line-height: 250px;/*margin:0px -10px;*/background: #51270E;}
+		div.main>div.brand>div.brand_img>ul>li>a{display: block;width: 200px;height: 200px;border-radius: 100px;}
+		div.main>div.brand>div.brand_img>ul>li:first-child{background: white;}
+		div.main>div.brand>div.brand_img>ul>li.brand-style{width: 300px;height: 300px;border-radius: 150px;line-height: 350px;position:relative; z-index: 1;margin-top: -50px;}
+		div.main>div.brand>div.brand_img>ul>li.brand-style>a{display: block;width: 300px;height: 300px;border-radius: 150px;line-height: 350px;}
+		div.main>div.brand>div.brand_img>ul>li:last-child{background: white;}
+		div.main>div.brand>div.brand_img>div.word{width:500px;margin: 0px auto;position: relative;}
+		div.main>div.brand>div.brand_img>div.word>p{line-height: 1.5;font-size: 18px;color: #591A09;text-align:justify;position: absolute;display: none;}
+		div.main>div.brand>div.brand_img>div.word>.word-style{display: block;}
+		div.main>div.brand>div.brand_img>div.cir{width: 100px;height: 20px;/*background: red;*/position: absolute;top:580px;left: 500px;}
+		div.main>div.brand>div.brand_img>div.cir>ul{width: 95px;margin: 0px auto}
+		div.main>div.brand>div.brand_img>div.cir>ul>li{width: 20px;height: 20px;margin-left: 9px; background:#ccc;float: left;border-radius: 10px}
+		div.main>div.brand>div.brand_img>div.cir>ul>li.cir-style{background: #FAD000}
+		div.main>div.tab{width: 100%;height: 352px;position: relative;/* background: pink;*/}
+		div.main>div.tab>div.tab-nav{width: 100%;height: 51px;/*background: white;*/border-bottom: 1px solid #FAD000;}
+		div.main>div.tab>div.tab-nav>ul{width: 625px;height: 50px;margin: 0px auto;}
+		div.main>div.tab>div.tab-nav>ul>li{width: 300px;height: 50px; float: left;text-align: center;line-height: 50px;margin: 0 5px;background: #FCE99D}
+		div.main>div.tab>div.tab-nav>ul>li.nav-style{border: 1px solid #FAD000;border-bottom: 1px solid white;background: white;}
+		div.main>div.tab>div.tab-nav>ul>li>a{display: block;width: 300px;height: 51px;color: #3E1909;font-weight: 800}
+		div.main>div.tab>div.tab-nav>ul>li.nav-style>a{color: #FAD000;}
+		div.main>div.tab>div.nav-word>div.text{width: 100%;height: 250px;background: white;padding-top: 50px}
+		div.main>div.tab>div.nav-word>div.text>ul{width: 500px;margin:0px auto;list-style: square;}
+		div.main>div.tab>div.nav-word>div.flow{width: 100%;height: 700px;background: white;position: absolute;top:52px;display: none;text-align: center;padding-top: 100px}
+		div.main>div.store{width: 100%;height:900px;/*background: pink;*/}
+		div.main>div.store>div.tojoin{width:90%;height:800px;margin: 0px auto; /*text-align: center;*/padding-top: 100px;/*background: orange*/}
+		div.main>div.store>div.tojoin>.tojoin-title{width: 100%;height: auto;text-align: center;}
+		div.main>div.store>div.tojoin>.tojoin-brand{width: 550px;height: 106px;text-align: center;/*background: pink;*/margin:50px auto;margin-bottom: 20px; line-height: 130px;}
+		div.main>div.store>div.tojoin>.tojoin-brand>ul>li{float: left;width: 150px;height: 100px;border: 3px solid #ccc;border-radius: 5px; margin-left: 20px;}
+		div.main>div.store>div.tojoin>.tojoin-brand>ul>li>a{width: 150px;height: 100px;display: block;}
+		div.main>div.store>div.tojoin>.tojoin-brand>ul>li>a>img{width: 100px;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul{width: 100%;height:166px;/*background: red;*/position: relative;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>p{margin-left: 1050px; font-size: 20px;color: #E6B80A}
+		input,select{outline:none}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li{width: 575px;height: 50px;line-height: 48px; background: white;float: left;margin-left:20px;margin-top: 20px;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li>span{margin-right: 5px;color: #E6B80A;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li.country>select{width: 95%;height: 50px; border: none;font-size: 18px;-webkit-appearance: none;  background: url(../images/icon-darrow.svg) no-repeat 520px;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li>input{width:90%;height: 50px; border: none;font-size: 18px;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li.choose{background: transparent;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li.choose>input{display: inline-block; width: 50px;height: 24px;font-size: 18px;vertical-align:text-bottom;margin-bottom:-1px;}
+		div.main>div.store>div.tojoin>.tojoin-info>ul>li.choose>p{display: inline-block;font-size: 18px;margin-right: 50px;position: relative;left: 0px}
+
+
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen{width: 100%;height: 220px;/*background:#ccc;*/  position: relative;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li{width: 575px;height: 50px;background: white;float: left;margin-left:20px;margin-top: 20px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li>span{margin-right: 10px;color: #E6B80A;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li>input{width: 75%;height: 50px; border: none;font-size: 18px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li>#title{width: 20%;height: 27px; border: none;padding-left: 10px; border-left: 1px solid #FBD600;font-size: 18px;-webkit-appearance: none;  background: url(../images/icon-darrow.svg) no-repeat 70px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li.file{width: 575px;height: 50px;background: white;line-height: 50px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li.file>span{font-size: 18px;color: black;margin-left: 10px;float: left;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li.file>div.file-choose{width:60px;height: 40px;background:#FAD000; float: right;margin-right: 50px;line-height: 40px;text-align: center;margin-top: 5px;border-radius:3px }
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>li.file>input{width:575px;height:50px; border: none;font-size: 18px;opacity: 0;position: absolute;z-index: 1}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.prosen>ul>p{ position: absolute;top:150px;right:50px}
+
+
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company{width: 100%;height: 280px;/*background: #abc;*/position: relative;display: none;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li{width: 575px;height: 50px;background: white;float: left;margin-left: 20px;margin-top: 20px}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li>input{width:90%;height: 50px; border: none;font-size: 18px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li>span{margin-right: 10px;color: #E6B80A;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.name>input{width: 75%;height: 50px; border: none;font-size: 18px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.name>#title{width: 20%;height: 27px; border: none;padding-left: 10px; border-left: 1px solid #FBD600;font-size: 18px;-webkit-appearance: none;  background: url(../images/icon-darrow.svg) no-repeat 70px;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.file{width: 575px;height: 50px;background: white;line-height: 50px;position: relative;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.file>span{font-size: 18px;color: black;margin-left: 10px;float: left;}
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.file>div.file-choose{width:60px;height: 40px;background:#FAD000; float: right;margin-right: 30px;line-height: 40px;text-align: center;margin-top: 5px;border-radius:3px }
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.file>input{width:575px;height:50px; border: none;font-size: 18px;opacity: 0;position: absolute;z-index: 1  }
+		div.main>div.store>div.tojoin>.tojoin-info>.box>.company>ul>li.file>p{position: absolute;top:50px;left: 200px}
+
+		div.main>div.store>div.tojoin>.tojoin-info>div.download{width:100%;height: 50px;line-height: 50px;/*background: red*/}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.left{width: 575px;height: 50px;background: white;line-height: 50px;line-height: 50px;float: left;margin-left: 20px}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.left>input{width: 90%;height: 48px;font-size: 18px;border: none;}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.right{width: 575px;height: 50px;line-height: 50px;line-height: 50px;float:right;}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.right>img{vertical-align: middle;padding-right: 10px}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.right>a>img{vertical-align: middle;padding-right: 10px}
+		div.main>div.store>div.tojoin>.tojoin-info>div.download>.right>a>div{display:inline-block;width: 300px;height: 50px;border-radius: 5px;background:#F9D54A; margin-left: 50px;text-align: center;font-size: 18px;color: black}

@@ -1,0 +1,24 @@
+div.top>div.bg_about{background: url(../images/bg-member-pattern.jpg) no-repeat;position: relative;}
+		div.top>div.bg_about>div.title_history{width: 450px;height: 170px;margin-left: 150px;margin-top: 50px}
+		div.top>div.bg_about>div.title_history>div.download{width: 300px;height: 120px;margin-top: 10px;position: relative;}
+		div.top>div.bg_about>div.title_history>div.download>img{width:300px;height: auto;margin-bottom: 10px;}
+		div.top>div.bg_about>div.title_history>div.download>.download-choose{position: absolute;top:75px;left: 15px;}
+		div.top>div.bg_about>div.title_history>div.download>.download-choose>a>img{width: 80px;}
+		div.top>div.bg_about>div.title_history>div.download>a>img{width:300px;height: auto;margin-bottom: 10px;}
+		div.main{width: 100%;height: 1550px;/*background: #ccc;*/overflow: hidden;}
+		div.main>div.nav-choose{width: 100%;height: 51px;/*background: pink;*/margin-top: 50px;border-bottom:2px solid #FAD000}
+		div.main>div.nav-choose>ul{width: 94%;height: 48px;margin: 0px auto;}
+		div.main>div.nav-choose>ul>li{width: 300px;height: 47px;float: left;text-align: center;line-height: 48px;background: #FCE99D;border: 2px solid  transparent;margin-left: 10px}
+		div.main>div.nav-choose>ul>li>a{display: block; width: 300px;height: 50px; color: #3E1909;font-weight: 800}
+		div.main>div.nav-choose>ul>li.li-style{border: 2px solid #FAD000;border-bottom:5px solid white;background: white}
+		div.main>div.nav-choose>ul>li.li-style>a{color: #FAD730;}
+		div.main>div.show>div{width: 100%;/*background: orange;*/margin: 0px auto}
+		div.main>div.show>div.show-news>div.row{width: 1000px;height: 450px;margin: 0px auto;overflow: hidden;}
+		div.main>div.show>div.show-news>div.row>div.left{width: 500px;float: left;margin-top: 80px;border-radius:15px;overflow: hidden;}
+		div.main>div.show>div.show-news>div.row>div.left>img{width: 500px;}
+		div.main>div.show>div.show-news>div.row>div.right{width: 500px;height: 300px;background:white;float: right;margin-top:105px;text-align: center;}
+		div.main>div.show>div.show-news>div.row>div.right>p{margin-top:65px;margin-bottom: 25px; font-size: 25px}
+		div.main>div.show>div.show-news>div.row>div.right>div{width: 80px;height:3px; background: orange;margin: 0px auto;}
+		div.main>div.show>div.show-news>div.row>div.right>h3{width: 400px; font-weight: 400;text-align:justify;margin: 30px auto}
+		div.main>div.show>div.join-vip{display: none}
+		div.main>div.show>div.join-vip>img{display: block; margin: 0px auto;padding-top: 100px;}
